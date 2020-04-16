@@ -1,0 +1,25 @@
+{
+  "name": "react-native-list-popover",
+  "version": "1.1.1",
+  "description": "<ListPopover/> component to render a selectable list",
+  "main": "ListPopover.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PsArvin/react-native-list-popover.git"
+  },
+  "keywords": [
+    "list",
+    "popover",
+    "selectable",
+    "modal"
+  ],
+  "author": "PsArvin<PsArvin@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PsArvin/react-native-list-popover/issues"
+  },
+  "homepage": "https://github.com/PsArvin/react-native-list-popover",
+  "dependencies": {
+    "deprecated-react-native-listview": "0.0.6"
+  }
+}
