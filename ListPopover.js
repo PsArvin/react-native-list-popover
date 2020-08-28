@@ -69,6 +69,7 @@ class ListPopover extends Component {
     return (
       <ListView
         style={maxHeight}
+        nestedScrollEnabled={true}
         dataSource={this.state.dataSource}
         renderRow={(rowData) => this.renderRow(rowData)}
       />
